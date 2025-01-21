@@ -2,5 +2,5 @@ pandas
 streamlit
 shap
 matplotlib
-sklearn
+scikit-learn
 joblib
